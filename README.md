@@ -41,7 +41,7 @@
 
 #### Muli-Resource API
 
-- [ ] Review Of Endpoints and COmmands Service
+- [ ] Review Of Endpoints and Commands Service
 - [ ] Data Layer
 - [ ] Controllers & Actions
 
@@ -64,7 +64,7 @@
 - [ ] Overview of GRPC
 - [ ] Final Kubernetes networking
 - [ ] Addinf gRPC server to Platform Service
-- [ ] Creating a "proto: file
+- [ ] Creating a "proto" file
 - [ ] Addinf a gRPC client to the Commands Service
 - [ ] Deploy & Test
 
