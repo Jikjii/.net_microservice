@@ -68,5 +68,5 @@
 - [ ] Adding a gRPC client to the Commands Service
 - [ ] Deploy & Test
 
-
+# 1 Principles
 
