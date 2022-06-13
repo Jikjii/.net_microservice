@@ -116,3 +116,37 @@
 - [ ] Allows you to familiarise yourself with the domain ( this is benifitial to startups when they first begin created their domains )
 - [ ] Might have a hybrid approach - can still build 2 or 3 big services without relative hardship
 - [ ] Not as reliant on network
+
+# The "Platform" Service
+
+## This will be a service that is used to track all the platforms / systems in the company
+## Usually built by the infastructure team / devops
+# Used by: 
+- [ ] Infastructure Team
+- [ ] Technical Support Team
+- [ ] Engineering Team
+- [ ] Accounting Team
+- [ ] Many others...
+
+# The "Commands" Service
+
+## Functiosn as a repostitory of command line augments for given Platforms
+## Aids in the automation of support processes
+# Used by:
+- [ ] Techinal Support Team
+- [ ] Infastructure Team
+- [ ] Engineering Team
+
+# 3 Solution Architecture
+<!-- ADD IMAGE HERE FOR SOLUTION ARCHITECTURE -->
+Creating data / platform and it makes its way down to other servies it something called "eventual consistency"
+
+
+
+
+
+
+
+
+
+
