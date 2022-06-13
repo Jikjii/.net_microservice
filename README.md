@@ -49,7 +49,7 @@
 
 - [ ] Solution Architecture
 - [ ] RabbitMQ Overview
-- [ ] Delply RabbitMQ to Kubernetes
+- [ ] Delploy RabbitMQ to Kubernetes
 - [ ] Test
 
 
@@ -65,7 +65,7 @@
 - [ ] Final Kubernetes networking
 - [ ] Addinf gRPC server to Platform Service
 - [ ] Creating a "proto" file
-- [ ] Addinf a gRPC client to the Commands Service
+- [ ] Adding a gRPC client to the Commands Service
 - [ ] Deploy & Test
 
 
