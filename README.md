@@ -68,11 +68,11 @@
 - [ ] Adding a gRPC client to the Commands Service
 - [ ] Deploy & Test
 
-# 1 Principles
+# Principles
 
-#### Microserves are small ( Consider a team that would be able to eat to 2 pizzas pies and be satisfied another way to consider this would be a team that takes only 2 weeks to build it)
+#### Microservices are small - consider a team that can take two wweks to build it out and can eat 2 pizza pies and feel satisfied
 
-#### They are small and do they're jobs extremly well, they dont rely too much on other parts of the system. paradoxically in order for it to be a microserves, said services will have to talk to each other.
+#### They are small and do they're jobs extremly well, they dont rely too much on other parts of the system. Paradoxically in order for it to be a microserves, said services will have to talk to each other.
 
 #### Form Part of the (distributed) whole
 #### Self-contained / Autonomous
